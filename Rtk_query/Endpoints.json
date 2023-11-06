@@ -1,0 +1,14 @@
+{
+  "licenseList": "/TradeDemandSearch/SearchDemandNO?DemandNo=",
+  "renewalList": "/TradeDemandSearch/SearchTLNO?TLNO=",
+  "licenseDetails": "/TradePayment/DemandNotice_Change?DemandNo=",
+  "renewalDetails": "/TradeRenewalPayment/DemandNotice_Change?TradeLicenseNo=",
+  "licenseHistory": "/TradePayment/PaymentHistory?DemandNo=",
+  "renewalHistory": "/TradeRenewalPayment/PaymentHistory?TLNO=",
+  "tradeLicenseDownload": "/Print/TradeLicense?TradeNo=",
+  "demandNoticeDownload": "/Print/DemandNotice?ServiceNumber=",
+  "waterDeposit": "/WaterDeposit/AssessmentDetails?OrgID=",
+  "drainageDeposit": "/UGDDeposit/AssessmentDetails?OrgID=",
+  "drainageDetails": "/BPMPayment/DemandNotice_Change?DemandNo=",
+  "waterDetails": "/NCDC/PaymentDetails?AssessmentNo="
+}
